@@ -1,3 +1,5 @@
+// you have to download esp32 v2.0.14 or something below v3 to use ledcSetup and ledcAttachPin
+
 const int ledPin = 16;
 const int ledPin2 = 17;
 const int ledPin3 = 5;
